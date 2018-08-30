@@ -1,2 +1,2 @@
 # 2048-puzzle-game
-For an education using
+For an educational using
